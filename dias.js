@@ -1,0 +1,1 @@
+let dias = ["Lunes", "Martes", "Miercoles"]

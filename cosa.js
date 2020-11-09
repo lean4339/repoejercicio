@@ -1,0 +1,1 @@
+let cosas = ["Alfajor", "Maquina de tejer", "Computadora"]
