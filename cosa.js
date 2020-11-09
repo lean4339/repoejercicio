@@ -1,1 +1,1 @@
-let cosas = ["Alfajor", "Maquina de tejer", "Computadora"]
+let cosas = ["Alfajor", "Maquina de tejer", "Computadora", "Zapatos"]
