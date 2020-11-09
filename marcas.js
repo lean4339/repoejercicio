@@ -1,1 +1,1 @@
-let marcas = ["Adidas", "Nike", "Puma", "Mc Donals", "Burger King"]
+let marcas = ["Adidas", "Nike", "Puma", "Mc Donals", "Burger King", 'KFC' , 'Ferrari']
